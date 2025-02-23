@@ -1,0 +1,5 @@
+# For pandas-based version  
+pandas>=1.3.0  
+pyyaml>=5.1
+# For minimal version (no third-party deps)  
+# (Nothing needed!)  

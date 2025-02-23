@@ -1,0 +1,39 @@
+rules:
+  - category: "Family"
+    subcategory: "Fitness"
+    priority: 1
+    keywords:
+      - "AMAZON"
+      - "NETFLIX"
+      - "Kohls"
+      - "DOLLAR TREE"
+      - "Audible"
+      - "DELAWARE HBCS"
+
+  - category: "Housing"
+    subcategory: "Fitness"
+    priority: 2
+    keywords:
+      - "walmart"
+      - "whole foods"
+      - "peco"
+      - "aqua"
+
+  - category: "Food"
+    subcategory: "Fitness"
+    priority: 2
+    keywords:
+      - "walmart"
+      - "KHAAMAR BAARI SUPER"
+      - "PRODUCE JUNCTION BROOMALL"
+      - "GIANT"
+      - "GENTILE'S"
+      - "MARTINDALE'S"
+
+  - category: "Transportation"
+    subcategory: "Fitness"
+    priority: 2
+    keywords:
+      - "BRUNO'S SINCLAIR"
+      - "WAWA 991"
+      - "PROGRESSIVE"

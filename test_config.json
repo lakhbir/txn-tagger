@@ -1,0 +1,19 @@
+{
+  "csv_config": {
+    "columns": {
+      "description": "Transaction Details",
+      "amount": "Amount",
+      "transaction_date": "Date"
+    },
+    "amount_format": {
+      "decimal_separator": ".",
+      "thousands_separator": ",",
+      "currency_symbols": [
+        "$",
+        "\u20ac",
+        "\u00a3"
+      ],
+      "negative_transaction_type": "debit"
+    }
+  }
+}

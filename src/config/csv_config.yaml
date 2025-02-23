@@ -1,0 +1,10 @@
+csv_config:
+  columns:
+    Description: "description"  # Original CSV column name
+    Amount: "amount"
+    Transaction Date: "transaction_date"
+  amount_format:
+    decimal_separator: "."
+    thousands_separator: ","
+    currency_symbols: ["$", "£"]
+    negative_transaction_type: "debit"  # or "credit"
