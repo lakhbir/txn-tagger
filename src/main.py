@@ -1,9 +1,4 @@
-from dataclasses import dataclass
-from typing import List, Dict
-import pandas as pd
-
 from rule_manager import RuleManager
-
 from categorizer import Categorizer
 from csv_loader import CSVLoader
 
