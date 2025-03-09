@@ -1,0 +1,51 @@
+rules:
+  - category: "Family"
+    subcategories:
+      - name: "Fitness"
+        priority: 1  # Higher priority (processed first)
+        keywords:
+          - "Kohls"
+          - "DOLLAR TREE"
+          - "AMAZON"
+
+      - name: "Health"
+        priority: 11
+        keywords:
+          - "DELAWARE HBCS"
+
+      - name: "Subscription"
+        priority: 12
+        keywords:
+          - "Audible"
+          - "NETFLIX"
+
+
+  - category: "Housing"
+    subcategories:
+      - name: "Utilities"  # Renamed for clarity (original example had "Fitness" here)
+        priority: 2
+        keywords:
+          - "walmart"
+          - "whole foods"
+          - "peco"
+          - "aqua"
+
+  - category: "Food"
+    subcategories:
+      - name: "Groceries"  # Renamed for clarity
+        priority: 2
+        keywords:
+          - "KHAAMAR BAARI SUPER"
+          - "PRODUCE JUNCTION BROOMALL"
+          - "GIANT"
+          - "GENTILE'S"
+          - "MARTINDALE'S"
+
+  - category: "Transportation"
+    subcategories:
+      - name: "Fuel"
+        priority: 2
+        keywords:
+          - "BRUNO'S SINCLAIR"
+          - "WAWA 991"
+          - "PROGRESSIVE"

@@ -8,6 +8,11 @@ rules:
       - "Kohls"
       - "DOLLAR TREE"
       - "Audible"
+
+  - category: "Family"
+    subcategory: "Health"
+    priority: 11
+    keywords:
       - "DELAWARE HBCS"
 
   - category: "Housing"

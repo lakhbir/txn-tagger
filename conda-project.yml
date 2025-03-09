@@ -1,0 +1,6 @@
+name: txn-tagger
+environments:
+  default:
+    - environment.yml
+variables: {}
+commands: {}
