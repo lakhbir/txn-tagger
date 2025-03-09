@@ -1,0 +1,369 @@
+transaction_date,Post Date,description,Category,Type,amount,Memo,type,category,subcategory
+11/03/2024      ,11/04/2024,AMAZON MKTPL*KG4J42OE3,Shopping,Sale,-30.1,,debit,Family,Uncategorized
+11/02/2024      ,11/04/2024,DELAWARE HBCS         ,Health & Wellness,Sale,-100.0,,debit,Family,Health
+11/03/2024,11/04/2024,AMAZON MKTPLACE PMTS,Shopping,Return,29.69,,credit,Family,Uncategorized
+11/02/2024,11/03/2024,Amazon web services,Personal,Sale,-5.0,,debit,Family,Uncategorized
+11/01/2024,11/03/2024,KHAAMAR BAARI SUPER,Groceries,Sale,-14.98,,debit,Food,Groceries
+11/01/2024,11/03/2024,NETFLIX.COM,Bills & Utilities,Sale,-16.42,,debit,Family,Subscription
+10/31/2024,11/01/2024,PAYPAL *ALIPAYUSINC,Shopping,Sale,-152.88,,debit,Uncategorized,
+10/30/2024,10/31/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-32.75,,debit,Food,Groceries
+10/29/2024,10/30/2024,AMAZON MKTPL*7H7SK6CP3,Shopping,Sale,-29.69,,debit,Family,Uncategorized
+10/27/2024,10/28/2024,CHOP HOSPITAL ONLINE,Health & Wellness,Sale,-100.0,,debit,Uncategorized,
+10/27/2024,10/28/2024,AMAZON MKTPL*1751U1JD3,Shopping,Sale,-11.86,,debit,Family,Uncategorized
+10/27/2024,10/28/2024,VALUE BAZAAR,Groceries,Sale,-21.22,,debit,Uncategorized,
+10/26/2024,10/27/2024,LOWES #03169*,Home,Sale,-59.96,,debit,Uncategorized,
+10/26/2024,10/27/2024,BRUNO'S SINCLAIR,Gas,Sale,-62.18,,debit,Transportation,Fuel
+10/24/2024,10/25/2024,LOWES #03169*,Home,Return,4.94,,credit,Uncategorized,
+10/23/2024,10/25/2024,ROSS STORES #1695,Shopping,Sale,-35.97,,debit,Uncategorized,
+10/24/2024,10/25/2024,LOWES #03169*,Home,Sale,-91.69,,debit,Uncategorized,
+10/23/2024,10/25/2024,ROSS STORES #1695,Shopping,Sale,-127.19,,debit,Uncategorized,
+10/24/2024,10/25/2024,LOWES #03169*,Home,Sale,-6.36,,debit,Uncategorized,
+10/22/2024,10/23/2024,AMAZON PRIME*VJ6X34GO3,Shopping,Sale,-3.17,,debit,Family,Uncategorized
+10/17/2024,10/18/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-26.0,,debit,Food,Groceries
+10/15/2024,10/16/2024,BRUNO'S SINCLAIR,Gas,Sale,-31.64,,debit,Transportation,Fuel
+10/14/2024,10/15/2024,ASTOUND POWERED BY RCN,Bills & Utilities,Sale,-36.92,,debit,Uncategorized,
+10/14/2024,10/15/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-41.0,,debit,Food,Groceries
+10/14/2024,10/15/2024,SANJHA BAZAAR,Groceries,Sale,-67.99,,debit,Uncategorized,
+10/14/2024,10/15/2024,TMOBILE*AUTO PAY,Bills & Utilities,Sale,-205.11,,debit,Uncategorized,
+10/13/2024,10/14/2024,BJS WHOLESALE #0092,Shopping,Sale,-202.03,,debit,Uncategorized,
+10/11/2024,10/13/2024,SANJHA BAZAAR,Groceries,Sale,-62.91,,debit,Uncategorized,
+10/10/2024,10/10/2024,AUTOMATIC PAYMENT - THANK,,Payment,3112.01,,credit,Uncategorized,
+10/08/2024,10/10/2024,BURLINGTON STORES 767,Shopping,Sale,-51.72,,debit,Uncategorized,
+10/08/2024,10/09/2024,WAL-MART #5881,Groceries,Sale,-71.92,,debit,Uncategorized,
+10/02/2024,10/04/2024,DELAWARE HBCS,Health & Wellness,Sale,-100.0,,debit,Family,Health
+10/02/2024,10/03/2024,Amazon web services,Personal,Sale,-4.84,,debit,Family,Uncategorized
+10/02/2024,10/03/2024,GENTILE'S FARM MARK,Groceries,Sale,-27.13,,debit,Food,Groceries
+10/01/2024,10/02/2024,EDGMONT SQUARE 10,Entertainment,Sale,-11.45,,debit,Uncategorized,
+10/01/2024,10/01/2024,Netflix,Bills & Utilities,Sale,-16.42,,debit,Family,Subscription
+09/27/2024,09/29/2024,ROSS STORES #1695,Shopping,Sale,-38.87,,debit,Uncategorized,
+09/27/2024,09/29/2024,CHOP HOSPITAL ONLINE,Health & Wellness,Sale,-100.0,,debit,Uncategorized,
+09/27/2024,09/27/2024,WWW.ACTIVEIMAGEMEDIA.C,Shopping,Sale,-47.56,,debit,Uncategorized,
+09/25/2024,09/26/2024,CVS/PHARMACY #01296,Health & Wellness,Sale,-40.56,,debit,Uncategorized,
+09/25/2024,09/26/2024,GENTILE'S FARM MARK,Groceries,Sale,-46.18,,debit,Food,Groceries
+09/23/2024,09/24/2024,RACETRACK,Gas,Sale,-59.54,,debit,Uncategorized,
+09/23/2024,09/24/2024,9358 GREAT CLIPS OF PILGR,Personal,Sale,-25.0,,debit,Uncategorized,
+09/22/2024,09/23/2024,BJS WHOLESALE #0092,Shopping,Sale,-158.21,,debit,Uncategorized,
+09/21/2024,09/22/2024,QDI*QUEST DIAGNOSTICS,Health & Wellness,Sale,-51.39,,debit,Uncategorized,
+09/21/2024,09/22/2024,MEDIA ENDODONTICS,Health & Wellness,Sale,-102.2,,debit,Uncategorized,
+09/20/2024,09/22/2024,GIANT 6442,Groceries,Sale,-48.21,,debit,Food,Groceries
+09/21/2024,09/22/2024,PHSC BILLING OFFICE,Health & Wellness,Sale,-226.77,,debit,Uncategorized,
+09/21/2024,09/22/2024,QDI*QUEST DIAGNOSTICS,Health & Wellness,Sale,-101.82,,debit,Uncategorized,
+09/20/2024,09/22/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-24.5,,debit,Food,Groceries
+09/19/2024,09/19/2024,AMAZON MKTPL*NF3P71FT3,Shopping,Sale,-13.78,,debit,Family,Uncategorized
+09/17/2024,09/18/2024,KHAAMAR BAARI SUPER,Groceries,Sale,-26.48,,debit,Food,Groceries
+09/17/2024,09/18/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-24.0,,debit,Food,Groceries
+09/17/2024,09/18/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-7.5,,debit,Food,Groceries
+09/17/2024,09/18/2024,WAL-MART #5881,Groceries,Sale,-47.39,,debit,Uncategorized,
+09/16/2024,09/16/2024,AMAZON MKTPL*M56R69663,Shopping,Sale,-10.99,,debit,Family,Uncategorized
+09/14/2024,09/15/2024,SANJHA BAZAAR,Groceries,Sale,-14.98,,debit,Uncategorized,
+09/14/2024,09/15/2024,TMOBILE*AUTO PAY,Bills & Utilities,Sale,-205.11,,debit,Uncategorized,
+09/13/2024,09/15/2024,WAL-MART #5881,Groceries,Sale,-173.67,,debit,Uncategorized,
+09/12/2024,09/13/2024,ASTOUND POWERED BY RCN,Bills & Utilities,Sale,-42.8,,debit,Uncategorized,
+09/11/2024,09/11/2024,AMAZON MKTPL*Z83YA80D0,Shopping,Sale,-69.9,,debit,Family,Uncategorized
+09/10/2024,09/11/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-39.0,,debit,Food,Groceries
+09/10/2024,09/10/2024,AUTOMATIC PAYMENT - THANK,,Payment,4571.26,,credit,Uncategorized,
+09/09/2024,09/10/2024,SAGE CLINIC,Health & Wellness,Sale,-225.0,,debit,Uncategorized,
+09/08/2024,09/10/2024,SUNOCO 0004856104,Gas,Sale,-67.45,,debit,Uncategorized,
+09/08/2024,09/09/2024,GIANT 6011,Groceries,Sale,-17.97,,debit,Food,Groceries
+09/07/2024,09/08/2024,Audible*ZT01G6210,Bills & Utilities,Sale,-15.85,,debit,Family,Subscription
+09/07/2024,09/08/2024,Amazon.com*ZT1NO6831,Shopping,Sale,-100.0,,debit,Family,Uncategorized
+09/04/2024,09/05/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-18.0,,debit,Food,Groceries
+09/03/2024,09/04/2024,MARTINDALE'S NATURAL MAR,Groceries,Sale,-37.72,,debit,Food,Groceries
+09/03/2024,09/04/2024,AMAZON MKTPL*ZT4E44401,Shopping,Sale,-107.81,,debit,Family,Uncategorized
+09/02/2024,09/03/2024,Amazon web services,Personal,Sale,-5.0,,debit,Family,Uncategorized
+09/01/2024,09/02/2024,BJS MEMBERSHIP,Shopping,Sale,-110.0,,debit,Uncategorized,
+09/01/2024,09/02/2024,BJS WHOLESALE #0092,Shopping,Sale,-461.76,,debit,Uncategorized,
+08/31/2024,09/01/2024,SODI  BROTHERS COLLISION,Automotive,Sale,-258.91,,debit,Uncategorized,
+09/01/2024,09/01/2024,NETFLIX.COM,Bills & Utilities,Sale,-16.42,,debit,Family,Subscription
+08/31/2024,09/01/2024,LOWES #03169*,Home,Sale,-25.68,,debit,Uncategorized,
+08/29/2024,08/30/2024,SANJHA BAZAAR,Groceries,Sale,-87.23,,debit,Uncategorized,
+08/29/2024,08/30/2024,Amazon.com*RK0FC3SZ2,Shopping,Sale,-24.37,,debit,Family,Uncategorized
+08/28/2024,08/30/2024,FIVE BELOW 8223,Shopping,Sale,-29.2,,debit,Uncategorized,
+08/29/2024,08/30/2024,HONEST INDIAN RESTAURANT,Food & Drink,Sale,-115.55,,debit,Uncategorized,
+08/28/2024,08/28/2024,PAYPAL *ALIPAYUSINC,Shopping,Return,76.23,,credit,Uncategorized,
+08/27/2024,08/28/2024,BRUNO'S SINCLAIR,Gas,Sale,-28.95,,debit,Transportation,Fuel
+08/27/2024,08/28/2024,CHOP HOSPITAL ONLINE,Health & Wellness,Sale,-100.0,,debit,Uncategorized,
+08/26/2024,08/27/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-47.0,,debit,Food,Groceries
+08/25/2024,08/25/2024,PAYPAL *ALIPAYUSINC,Shopping,Return,1.71,,credit,Uncategorized,
+08/20/2024,08/21/2024,BRUNO'S SINCLAIR,Gas,Sale,-53.15,,debit,Transportation,Fuel
+08/20/2024,08/21/2024,LOWES #03169*,Home,Sale,-15.86,,debit,Uncategorized,
+08/20/2024,08/21/2024,GIANT 6442,Groceries,Sale,-117.45,,debit,Food,Groceries
+08/19/2024,08/20/2024,PAYPAL *ALIPAYUSINC,Shopping,Sale,-201.67,,debit,Uncategorized,
+08/18/2024,08/19/2024,DOLLARTREE,Shopping,Sale,-10.5,,debit,Uncategorized,
+08/17/2024,08/18/2024,Upper Darby Township  PA,Bills & Utilities,Sale,-38.0,,debit,Uncategorized,
+08/16/2024,08/18/2024,Amazon Fresh*RU50Q0AG1,Groceries,Sale,-29.6,,debit,Family,Uncategorized
+08/15/2024,08/16/2024,AMAZON MKTPL*RU9NW3EQ2,Shopping,Sale,-136.72,,debit,Family,Uncategorized
+08/16/2024,08/16/2024,AMZN Mktp CA*RU5504NC1,Shopping,Sale,-114.69,,debit,Uncategorized,
+08/14/2024,08/15/2024,LOWES #03169*,Home,Sale,-48.66,,debit,Uncategorized,
+08/14/2024,08/15/2024,TMOBILE*AUTO PAY,Bills & Utilities,Sale,-208.64,,debit,Uncategorized,
+08/13/2024,08/14/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-85.5,,debit,Food,Groceries
+08/12/2024,08/13/2024,ASTOUND POWERED BY RCN,Bills & Utilities,Sale,-53.05,,debit,Uncategorized,
+08/12/2024,08/13/2024,WAL-MART #5881,Groceries,Sale,-101.76,,debit,Uncategorized,
+08/11/2024,08/13/2024,KWIK FILL 147,Gas,Sale,-24.65,,debit,Uncategorized,
+08/11/2024,08/12/2024,GIANT 6442,Groceries,Sale,-66.12,,debit,Food,Groceries
+08/10/2024,08/12/2024,KWIK FILL 147,Gas,Sale,-24.22,,debit,Uncategorized,
+08/10/2024,08/12/2024,SUNOCO 0070675400,Gas,Sale,-22.46,,debit,Uncategorized,
+08/09/2024,08/09/2024,AUTOMATIC PAYMENT - THANK,,Payment,3944.69,,credit,Uncategorized,
+08/07/2024,08/08/2024,Audible*RF5H18WX0,Bills & Utilities,Sale,-15.85,,debit,Family,Subscription
+08/07/2024,08/08/2024,PAYPAL *ENCHANTED1422,Professional Services,Sale,-300.0,,debit,Uncategorized,
+08/05/2024,08/06/2024,SUNOCO 0672657401,Gas,Sale,-44.11,,debit,Uncategorized,
+08/05/2024,08/06/2024,DUNKIN #353939,Food & Drink,Sale,-3.51,,debit,Uncategorized,
+08/05/2024,08/06/2024,UEP*SUTAO CAFE,Food & Drink,Sale,-126.39,,debit,Uncategorized,
+08/02/2024,08/04/2024,Amazon web services,Personal,Sale,-5.0,,debit,Family,Uncategorized
+08/02/2024,08/04/2024,STEWARTS SHOP 323,Gas,Sale,-59.76,,debit,Uncategorized,
+08/01/2024,08/02/2024,RITE AID 10551,Health & Wellness,Sale,-36.14,,debit,Uncategorized,
+08/01/2024,08/02/2024,Netflix.com,Bills & Utilities,Sale,-16.42,,debit,Family,Subscription
+07/29/2024,07/31/2024,SUNOCO 0070675400,Gas,Sale,-41.78,,debit,Uncategorized,
+07/29/2024,07/30/2024,9358 GREAT CLIPS OF PILGR,Personal,Sale,-25.0,,debit,Uncategorized,
+07/29/2024,07/30/2024,WAL-MART #5881,Groceries,Sale,-83.02,,debit,Uncategorized,
+07/29/2024,07/30/2024,SHOPRITE CHESTER S1,Groceries,Sale,-83.45,,debit,Uncategorized,
+07/29/2024,07/30/2024,DOLLAR TREE,Shopping,Sale,-23.85,,debit,Family,Uncategorized
+07/28/2024,07/29/2024,GIANT 6442,Groceries,Sale,-102.58,,debit,Food,Groceries
+07/27/2024,07/29/2024,ROSS STORES #1695,Shopping,Sale,-48.71,,debit,Uncategorized,
+07/27/2024,07/28/2024,CHOP HOSPITAL ONLINE,Health & Wellness,Sale,-100.0,,debit,Uncategorized,
+07/26/2024,07/28/2024,WAWA 8145,Gas,Sale,-39.48,,debit,Uncategorized,
+07/26/2024,07/28/2024,WAL-MART #5881,Groceries,Sale,-23.67,,debit,Uncategorized,
+07/26/2024,07/28/2024,MARTINDALE'S NATURAL MAR,Groceries,Sale,-27.16,,debit,Food,Groceries
+07/27/2024,07/28/2024,CHOP PHYSICIANS ONLINE,Health & Wellness,Sale,-80.66,,debit,Uncategorized,
+07/26/2024,07/28/2024,AMZN Mktp US*RV0AA7N60,Shopping,Sale,-39.23,,debit,Uncategorized,
+07/25/2024,07/26/2024,WAL-MART #5881,Groceries,Sale,-16.69,,debit,Uncategorized,
+07/25/2024,07/26/2024,AMAZON MKTPL*RJ99O1901,Shopping,Sale,-50.0,,debit,Family,Uncategorized
+07/24/2024,07/25/2024,WAL-MART #5881,Groceries,Sale,-195.37,,debit,Uncategorized,
+07/22/2024,07/23/2024,PAYPAL *AIRBNB  HMWPYDXJE,Travel,Sale,-1588.55,,debit,Uncategorized,
+07/20/2024,07/22/2024,DANA MANDI 2,Groceries,Sale,-78.35,,debit,Uncategorized,
+07/21/2024,07/22/2024,GIANT 6442,Groceries,Sale,-22.8,,debit,Food,Groceries
+07/20/2024,07/21/2024,BP#1211000FLEMINGTON BP,Gas,Sale,-56.36,,debit,Uncategorized,
+07/18/2024,07/21/2024,ROSS STORES #1695,Shopping,Return,10.59,,credit,Uncategorized,
+07/20/2024,07/21/2024,BEYOND TRADING  INC,Home,Sale,-40.82,,debit,Uncategorized,
+07/18/2024,07/19/2024,WAL-MART #5881,Groceries,Sale,-51.92,,debit,Uncategorized,
+07/17/2024,07/18/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-56.5,,debit,Food,Groceries
+07/17/2024,07/18/2024,USPS PO 4121170226,Shopping,Sale,-95.43,,debit,Uncategorized,
+07/16/2024,07/17/2024,CVS/PHARMACY #01296,Health & Wellness,Sale,-6.99,,debit,Uncategorized,
+07/16/2024,07/17/2024,PTC EZ PASS AUTO RE.,Travel,Sale,-35.0,,debit,Uncategorized,
+07/15/2024,07/16/2024,MEDIA ENDODONTICS,Health & Wellness,Sale,-145.0,,debit,Uncategorized,
+07/14/2024,07/15/2024,GIANT 6442,Groceries,Sale,-126.44,,debit,Food,Groceries
+07/14/2024,07/15/2024,TMOBILE*AUTO PAY,Bills & Utilities,Sale,-205.01,,debit,Uncategorized,
+07/12/2024,07/14/2024,DOLLAR TREE,Shopping,Sale,-22.38,,debit,Family,Uncategorized
+07/12/2024,07/14/2024,ROSS STORES #1695,Shopping,Sale,-128.13,,debit,Uncategorized,
+07/12/2024,07/14/2024,SUNOCO 0042337601,Gas,Sale,-19.05,,debit,Uncategorized,
+07/12/2024,07/14/2024,FIVE BELOW 8223,Shopping,Sale,-47.33,,debit,Uncategorized,
+07/13/2024,07/14/2024,ASTOUND POWERED BY RCN,Bills & Utilities,Sale,-43.05,,debit,Uncategorized,
+07/11/2024,07/12/2024,VANGUARDDEVONPARK,Food & Drink,Sale,-5.46,,debit,Uncategorized,
+07/11/2024,07/12/2024,WAL-MART #5881,Groceries,Sale,-84.58,,debit,Uncategorized,
+07/10/2024,07/11/2024,WAWA 42,Groceries,Sale,-2.54,,debit,Uncategorized,
+07/10/2024,07/10/2024,AUTOMATIC PAYMENT - THANK,,Payment,2117.13,,credit,Uncategorized,
+07/09/2024,07/10/2024,WAL-MART #5881,Groceries,Sale,-79.51,,debit,Uncategorized,
+07/07/2024,07/08/2024,Audible*R746X2KZ1,Bills & Utilities,Sale,-15.85,,debit,Family,Subscription
+07/05/2024,07/07/2024,WAL-MART #5881,Groceries,Sale,-181.82,,debit,Uncategorized,
+07/05/2024,07/07/2024,DANA MANDI 2,Groceries,Sale,-73.41,,debit,Uncategorized,
+07/02/2024,07/03/2024,Amazon web services,Personal,Sale,-4.84,,debit,Family,Uncategorized
+07/01/2024,07/02/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-81.25,,debit,Food,Groceries
+07/01/2024,07/02/2024,SQ *INNER LANDSCAPE ACUPU,Health & Wellness,Sale,-99.0,,debit,Uncategorized,
+07/01/2024,07/02/2024,NETFLIX.COM,Bills & Utilities,Sale,-16.42,,debit,Family,Subscription
+06/30/2024,07/01/2024,CVS/PHARMACY #01296,Health & Wellness,Sale,-8.9,,debit,Uncategorized,
+06/29/2024,06/30/2024,GIANT 6442,Groceries,Sale,-72.32,,debit,Food,Groceries
+06/29/2024,06/30/2024,BRUNO'S SINCLAIR,Gas,Sale,-54.18,,debit,Transportation,Fuel
+06/29/2024,06/30/2024,WAWA 55,Groceries,Sale,-2.8,,debit,Uncategorized,
+06/27/2024,06/28/2024,CHOP PHYSICIANS ONLINE,Health & Wellness,Sale,-80.67,,debit,Uncategorized,
+06/27/2024,06/28/2024,CHOP HOSPITAL ONLINE,Health & Wellness,Sale,-100.0,,debit,Uncategorized,
+06/25/2024,06/26/2024,GIANT MARTINS #6523,Groceries,Sale,-71.14,,debit,Food,Groceries
+06/25/2024,06/26/2024,PTC EZ PASS AUTO RE.,Travel,Sale,-35.0,,debit,Uncategorized,
+06/24/2024,06/25/2024,PTC EZ PASS AUTO RE.,Travel,Sale,-35.0,,debit,Uncategorized,
+06/23/2024,06/24/2024,PTC EZ PASS AUTO RE.,Travel,Sale,-35.0,,debit,Uncategorized,
+06/21/2024,06/23/2024,KHALSA SWEET HOUSE,Food & Drink,Sale,-63.66,,debit,Uncategorized,
+06/21/2024,06/23/2024,SHOPRITE CARTERET S1,Groceries,Sale,-100.29,,debit,Uncategorized,
+06/22/2024,06/23/2024,SUNOCO 0475780300,Gas,Sale,-51.0,,debit,Uncategorized,
+06/21/2024,06/23/2024,PAYPAL *ALIPAYUSINC,Shopping,Sale,-44.47,,debit,Uncategorized,
+06/20/2024,06/21/2024,PAYPAL *PUMANORTHAM,Shopping,Sale,-32.79,,debit,Uncategorized,
+06/20/2024,06/21/2024,HONEST RESTAURANT,Food & Drink,Sale,-64.52,,debit,Uncategorized,
+06/19/2024,06/20/2024,9358 GREAT CLIPS OF PILGR,Personal,Sale,-25.0,,debit,Uncategorized,
+06/19/2024,06/20/2024,CONICELLI TOYOTA,Automotive,Sale,-63.11,,debit,Uncategorized,
+06/17/2024,06/18/2024,AMZN Mktp US*GY3U74PF3,Shopping,Sale,-50.87,,debit,Uncategorized,
+06/17/2024,06/18/2024,WAL-MART #5881,Groceries,Sale,-102.05,,debit,Uncategorized,
+06/14/2024,06/17/2024,EAGLE CREST PEDIATRIC DEN,Health & Wellness,Sale,-57.2,,debit,Uncategorized,
+06/14/2024,06/16/2024,TMOBILE*AUTO PAY,Bills & Utilities,Sale,-205.01,,debit,Uncategorized,
+06/15/2024,06/16/2024,PROGRESSIVE INS,Bills & Utilities,Sale,-1620.0,,debit,Transportation,Fuel
+06/14/2024,06/16/2024,AMAZON MKTPL*KB8O080X3,Shopping,Sale,-25.27,,debit,Family,Uncategorized
+06/13/2024,06/14/2024,AMZN Mktp US*4O7GQ5BW3,Shopping,Sale,-167.47,,debit,Uncategorized,
+06/13/2024,06/14/2024,GENTILE'S FARM MARK,Groceries,Sale,-97.49,,debit,Food,Groceries
+06/12/2024,06/14/2024,FIVE BELOW 8223,Shopping,Sale,-45.39,,debit,Uncategorized,
+06/12/2024,06/13/2024,BRUNO'S SINCLAIR,Gas,Sale,-56.21,,debit,Transportation,Fuel
+06/12/2024,06/13/2024,ASTOUND POWERED BY RCN,Bills & Utilities,Sale,-43.05,,debit,Uncategorized,
+06/10/2024,06/11/2024,RITE AID 00790,Health & Wellness,Sale,-13.77,,debit,Uncategorized,
+06/10/2024,06/11/2024,DANA MANDI 2,Groceries,Sale,-76.59,,debit,Uncategorized,
+06/10/2024,06/11/2024,WAL-MART #5881,Groceries,Sale,-93.05,,debit,Uncategorized,
+06/10/2024,06/10/2024,AUTOMATIC PAYMENT - THANK,,Payment,1835.83,,credit,Uncategorized,
+06/08/2024,06/09/2024,WAWA 8,Groceries,Sale,-2.54,,debit,Uncategorized,
+06/07/2024,06/09/2024,MEDIA ENDODONTICS,Health & Wellness,Sale,-90.0,,debit,Uncategorized,
+06/07/2024,06/09/2024,GIANT 6442,Groceries,Sale,-56.64,,debit,Food,Groceries
+06/07/2024,06/09/2024,BRUNO'S SINCLAIR,Gas,Sale,-32.64,,debit,Transportation,Fuel
+06/07/2024,06/09/2024,Audible*7P7FI3NZ3,Bills & Utilities,Sale,-15.85,,debit,Family,Subscription
+06/06/2024,06/07/2024,DOLLAR TREE,Shopping,Sale,-1.33,,debit,Family,Uncategorized
+06/06/2024,06/07/2024,BRUNO'S SINCLAIR,Gas,Sale,-56.65,,debit,Transportation,Fuel
+06/04/2024,06/05/2024,DOLLAR TREE,Shopping,Sale,-10.53,,debit,Family,Uncategorized
+06/03/2024,06/04/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-60.75,,debit,Food,Groceries
+06/02/2024,06/03/2024,UEP*SUTAO CAFE,Food & Drink,Sale,-71.83,,debit,Uncategorized,
+06/02/2024,06/03/2024,Amazon web services,Personal,Sale,-5.0,,debit,Family,Uncategorized
+05/31/2024,06/02/2024,AMZN Mktp US,Shopping,Return,9.22,,credit,Uncategorized,
+06/01/2024,06/02/2024,Netflix,Bills & Utilities,Sale,-16.42,,debit,Family,Subscription
+05/29/2024,05/30/2024,Amazon Fresh*HG2C376B3,Groceries,Sale,-13.29,,debit,Family,Uncategorized
+05/29/2024,05/30/2024,TARGET        00023127,Shopping,Sale,-53.57,,debit,Uncategorized,
+05/29/2024,05/30/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-31.25,,debit,Food,Groceries
+05/29/2024,05/30/2024,MARTINDALE'S NATURAL MAR,Groceries,Sale,-74.41,,debit,Food,Groceries
+05/27/2024,05/28/2024,CHOP HOSPITAL ONLINE,Health & Wellness,Sale,-100.0,,debit,Uncategorized,
+05/28/2024,05/28/2024,AMZN Mktp US*5L97X3KV3,Shopping,Sale,-39.21,,debit,Uncategorized,
+05/27/2024,05/28/2024,AMZN Mktp US*064XL4633,Shopping,Sale,-9.22,,debit,Uncategorized,
+05/27/2024,05/28/2024,CHOP PHYSICIANS ONLINE,Health & Wellness,Sale,-80.67,,debit,Uncategorized,
+05/28/2024,05/28/2024,Amazon.com*X000O30T3,Shopping,Sale,-5.29,,debit,Family,Uncategorized
+05/27/2024,05/28/2024,GIANT 6442,Groceries,Sale,-82.14,,debit,Food,Groceries
+05/24/2024,05/26/2024,KHAAMAR BAARI SUPER,Groceries,Sale,-29.98,,debit,Food,Groceries
+05/24/2024,05/26/2024,ZARA BROW BAR,Personal,Sale,-10.0,,debit,Uncategorized,
+05/22/2024,05/23/2024,SUNOCO 0272174401,Gas,Sale,-58.34,,debit,Uncategorized,
+05/21/2024,05/22/2024,BJS WHOLESALE #0056,Shopping,Sale,-250.63,,debit,Uncategorized,
+05/17/2024,05/20/2024,CHESTER DOLLAR WORLD LLC,Groceries,Sale,-25.18,,debit,Uncategorized,
+05/18/2024,05/19/2024,SHOPRITE DREXELINE S1,Groceries,Sale,-32.15,,debit,Uncategorized,
+05/16/2024,05/17/2024,WAWA 205,Gas,Sale,-5.71,,debit,Uncategorized,
+05/16/2024,05/17/2024,FISHER'S ACE HARDWARE,Home,Sale,-27.55,,debit,Uncategorized,
+05/14/2024,05/16/2024,EAGLE CREST PEDIATRIC DEN,Health & Wellness,Sale,-82.2,,debit,Uncategorized,
+05/15/2024,05/15/2024,TMOBILE*AUTO PAY,Bills & Utilities,Sale,-205.01,,debit,Uncategorized,
+05/14/2024,05/15/2024,DOLLAR TREE,Shopping,Sale,-37.22,,debit,Family,Uncategorized
+05/13/2024,05/14/2024,SANJHA BAZAAR,Groceries,Sale,-7.98,,debit,Uncategorized,
+05/13/2024,05/14/2024,AMZN Mktp US*ZQ6HG8RF3,Shopping,Sale,-46.73,,debit,Uncategorized,
+05/13/2024,05/14/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-12.0,,debit,Food,Groceries
+05/13/2024,05/14/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-51.5,,debit,Food,Groceries
+05/13/2024,05/14/2024,ASTOUND POWERED BY RCN,Bills & Utilities,Sale,-43.05,,debit,Uncategorized,
+05/10/2024,05/10/2024,AUTOMATIC PAYMENT - THANK,,Payment,1623.24,,credit,Uncategorized,
+05/08/2024,05/09/2024,MARTINDALE'S NATURAL MAR,Groceries,Sale,-50.83,,debit,Food,Groceries
+05/08/2024,05/09/2024,BRUNO'S SINCLAIR,Gas,Sale,-36.11,,debit,Transportation,Fuel
+05/05/2024,05/07/2024,QUICK CKEK FOOD STORES,Gas,Sale,-59.43,,debit,Uncategorized,
+05/04/2024,05/06/2024,SUNOCO 0070675400,Gas,Sale,-37.0,,debit,Uncategorized,
+05/04/2024,05/05/2024,WAWA 8070,Gas,Sale,-2.54,,debit,Uncategorized,
+05/02/2024,05/05/2024,ROSS STORES #1695,Shopping,Sale,-61.83,,debit,Uncategorized,
+05/02/2024,05/03/2024,Amazon web services,Personal,Sale,-3.38,,debit,Family,Uncategorized
+05/02/2024,05/03/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-35.5,,debit,Food,Groceries
+05/01/2024,05/02/2024,Netflix.com,Bills & Utilities,Sale,-16.42,,debit,Family,Subscription
+04/30/2024,05/01/2024,MARTINDALE'S NATURAL MAR,Groceries,Sale,-51.38,,debit,Food,Groceries
+04/26/2024,04/28/2024,COMM YMCA EASTERN DELAWAR,Gifts & Donations,Sale,-25.0,,debit,Uncategorized,
+04/27/2024,04/28/2024,WAWA 55,Groceries,Sale,-5.01,,debit,Uncategorized,
+04/25/2024,04/28/2024,ACME 0773,Groceries,Sale,-4.29,,debit,Uncategorized,
+04/24/2024,04/25/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-61.25,,debit,Food,Groceries
+04/22/2024,04/23/2024,WAL-MART #5881,Groceries,Sale,-136.29,,debit,Uncategorized,
+04/22/2024,04/23/2024,MARTINDALE'S NATURAL MAR,Groceries,Sale,-36.04,,debit,Food,Groceries
+04/21/2024,04/22/2024,ADVOCARE,Health & Wellness,Sale,-398.59,,debit,Uncategorized,
+04/19/2024,04/21/2024,AMZN Mktp US*V83909FQ3,Shopping,Sale,-31.45,,debit,Uncategorized,
+04/18/2024,04/19/2024,BHAVANI FOOD MARKET,Groceries,Sale,-45.99,,debit,Uncategorized,
+04/18/2024,04/19/2024,MALGUDI CAFE,Food & Drink,Sale,-75.21,,debit,Uncategorized,
+04/16/2024,04/18/2024,THE HOME DEPOT 4181,Home,Sale,-17.99,,debit,Uncategorized,
+04/17/2024,04/18/2024,WAL-MART #5881,Groceries,Sale,-123.93,,debit,Uncategorized,
+04/16/2024,04/18/2024,THE HOME DEPOT 4181,Home,Sale,-50.74,,debit,Uncategorized,
+04/16/2024,04/18/2024,THE HOME DEPOT #4181,Home,Return,23.26,,credit,Uncategorized,
+04/15/2024,04/17/2024,ACME 0773,Groceries,Sale,-10.99,,debit,Uncategorized,
+04/15/2024,04/16/2024,TMOBILE*AUTO PAY,Bills & Utilities,Sale,-205.03,,debit,Uncategorized,
+04/14/2024,04/16/2024,QUICK CKEK FOOD STORES,Gas,Sale,-27.61,,debit,Uncategorized,
+04/15/2024,04/16/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-58.0,,debit,Food,Groceries
+04/13/2024,04/15/2024,QUICK CKEK FOOD STORES,Gas,Sale,-15.6,,debit,Uncategorized,
+04/12/2024,04/14/2024,PUBLIX #1439,Groceries,Sale,-12.38,,debit,Uncategorized,
+04/12/2024,04/14/2024,BRUNO'S SINCLAIR,Gas,Sale,-25.4,,debit,Transportation,Fuel
+04/12/2024,04/14/2024,MARATHON PETRO70607,Gas,Sale,-27.59,,debit,Uncategorized,
+04/13/2024,04/14/2024,MARTINDALE'S NATURAL MAR,Groceries,Sale,-53.2,,debit,Food,Groceries
+04/12/2024,04/14/2024,ASTOUND POWERED BY RCN,Bills & Utilities,Sale,-43.05,,debit,Uncategorized,
+04/11/2024,04/11/2024,CSC ServiceWorks  Inc.,Personal,Sale,-3.5,,debit,Uncategorized,
+04/09/2024,04/11/2024,WDW MIDWAY GAMES,Shopping,Sale,-6.0,,debit,Uncategorized,
+04/09/2024,04/11/2024,WDW MARIYAS,Shopping,Sale,-35.0,,debit,Uncategorized,
+04/11/2024,04/11/2024,CSC ServiceWorks  Inc.,Personal,Sale,-1.25,,debit,Uncategorized,
+04/09/2024,04/11/2024,WDW HARAMBE MARKET,Food & Drink,Sale,-12.87,,debit,Uncategorized,
+04/11/2024,04/11/2024,CSC ServiceWorks  Inc.,Personal,Sale,-1.25,,debit,Uncategorized,
+04/09/2024,04/11/2024,WDW AFRICA BRIDGE,Food & Drink,Sale,-11.75,,debit,Uncategorized,
+04/11/2024,04/11/2024,CSC ServiceWorks  Inc.,Personal,Sale,-3.5,,debit,Uncategorized,
+04/11/2024,04/11/2024,CSC ServiceWorks  Inc.,Personal,Sale,-0.75,,debit,Uncategorized,
+04/10/2024,04/11/2024,CSC SERVICEWORK,Food & Drink,Sale,-1.0,,debit,Uncategorized,
+04/10/2024,04/10/2024,AUTOMATIC PAYMENT - THANK,,Payment,2175.03,,credit,Uncategorized,
+04/08/2024,04/10/2024,WDW TOY STORYALIENS,Food & Drink,Sale,-31.25,,debit,Uncategorized,
+04/05/2024,04/07/2024,9358 GREAT CLIPS OF PILGR,Personal,Sale,-25.0,,debit,Uncategorized,
+04/05/2024,04/07/2024,DOLLAR TREE,Shopping,Sale,-3.98,,debit,Family,Uncategorized
+04/06/2024,04/07/2024,MED*REG WOMENS HEALTH,Health & Wellness,Sale,-228.62,,debit,Uncategorized,
+04/04/2024,04/05/2024,BRUNO'S SINCLAIR,Gas,Sale,-50.6,,debit,Transportation,Fuel
+04/02/2024,04/03/2024,GIANT MARTINS #6523,Groceries,Sale,-26.72,,debit,Food,Groceries
+04/02/2024,04/03/2024,ZARA BROW BAR,Personal,Sale,-10.0,,debit,Uncategorized,
+04/03/2024,04/03/2024,Amazon web services,Personal,Sale,-3.5,,debit,Family,Uncategorized
+04/01/2024,04/03/2024,PPA ON STREET KIOSKS,Travel,Sale,-2.5,,debit,Uncategorized,
+04/02/2024,04/03/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-34.5,,debit,Food,Groceries
+04/01/2024,04/02/2024,NETFLIX.COM,Bills & Utilities,Sale,-16.42,,debit,Family,Subscription
+04/01/2024,04/02/2024,CHOP MAIN,Travel,Sale,-16.0,,debit,Uncategorized,
+03/31/2024,04/01/2024,AMZN Mktp US*OJ8TF3LR3,Shopping,Sale,-22.89,,debit,Uncategorized,
+03/31/2024,04/01/2024,DNH*GODADDY.COM,Bills & Utilities,Sale,-22.17,,debit,Uncategorized,
+03/31/2024,04/01/2024,DANA MANDI 2,Groceries,Sale,-78.01,,debit,Uncategorized,
+03/29/2024,04/01/2024,EAGLE CREST PEDIATRIC DEN,Health & Wellness,Sale,-113.2,,debit,Uncategorized,
+03/31/2024,03/31/2024,AMZN Mktp US*Y931H7IX3,Shopping,Sale,-43.45,,debit,Uncategorized,
+03/28/2024,03/29/2024,MARTINDALE'S NATURAL MAR,Groceries,Sale,-49.03,,debit,Food,Groceries
+03/27/2024,03/28/2024,WAL-MART #5881,Groceries,Sale,-6.91,,debit,Uncategorized,
+03/27/2024,03/28/2024,WAL-MART #5881,Groceries,Sale,-21.16,,debit,Uncategorized,
+03/25/2024,03/26/2024,DNH*GODADDY.COM,Bills & Utilities,Sale,-67.51,,debit,Uncategorized,
+03/24/2024,03/25/2024,GIANT MARTINS #6523,Groceries,Sale,-22.36,,debit,Food,Groceries
+03/22/2024,03/24/2024,MARSHALLS #0039,Shopping,Sale,-53.56,,debit,Uncategorized,
+03/22/2024,03/24/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-42.5,,debit,Food,Groceries
+03/20/2024,03/21/2024,CVS/PHARMACY #01296,Health & Wellness,Sale,-17.98,,debit,Uncategorized,
+03/19/2024,03/20/2024,MARTINDALE'S NATURAL MAR,Groceries,Sale,-49.95,,debit,Food,Groceries
+03/19/2024,03/20/2024,TARGET        00023127,Shopping,Sale,-58.59,,debit,Uncategorized,
+03/18/2024,03/19/2024,RITE AID 01081,Health & Wellness,Sale,-7.66,,debit,Uncategorized,
+03/18/2024,03/19/2024,RITE AID 01081,Health & Wellness,Sale,-6.16,,debit,Uncategorized,
+03/17/2024,03/18/2024,WAWA 97,Groceries,Sale,-2.54,,debit,Uncategorized,
+03/15/2024,03/17/2024,LOWES #03169*,Home,Sale,-48.71,,debit,Uncategorized,
+03/15/2024,03/17/2024,BURLINGTON STORES 767,Shopping,Sale,-24.98,,debit,Uncategorized,
+03/15/2024,03/17/2024,CARTER'S # 422,Shopping,Sale,-23.99,,debit,Uncategorized,
+03/15/2024,03/17/2024,CVS/PHARMACY #01296,Health & Wellness,Sale,-8.73,,debit,Uncategorized,
+03/15/2024,03/17/2024,WAL-MART #5881,Groceries,Sale,-72.37,,debit,Uncategorized,
+03/14/2024,03/15/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-10.75,,debit,Food,Groceries
+03/14/2024,03/15/2024,TMOBILE*AUTO PAY,Bills & Utilities,Sale,-202.33,,debit,Uncategorized,
+03/14/2024,03/15/2024,ASTOUND POWERED BY RCN,Bills & Utilities,Sale,-43.05,,debit,Uncategorized,
+03/11/2024,03/12/2024,Amazon Fresh*RN1IW3M91,Groceries,Sale,-6.99,,debit,Family,Uncategorized
+03/10/2024,03/12/2024,SUNOCO 0070675400,Gas,Sale,-48.29,,debit,Uncategorized,
+03/11/2024,03/12/2024,Amazon Fresh,Shopping,Return,6.99,,credit,Family,Uncategorized
+03/10/2024,03/11/2024,GIANT 6442,Groceries,Sale,-102.38,,debit,Food,Groceries
+03/10/2024,03/10/2024,AUTOMATIC PAYMENT - THANK,,Payment,1564.15,,credit,Uncategorized,
+03/08/2024,03/10/2024,SUNOCO 0363929104,Gas,Sale,-26.73,,debit,Uncategorized,
+03/08/2024,03/10/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-20.0,,debit,Food,Groceries
+03/08/2024,03/10/2024,BJS WHOLESALE #0056,Shopping,Sale,-468.0,,debit,Uncategorized,
+03/10/2024,03/10/2024,Amazon Prime*RN08M4K12,Bills & Utilities,Sale,-147.34,,debit,Family,Uncategorized
+03/08/2024,03/10/2024,ROSS STORES #1695,Shopping,Sale,-34.96,,debit,Uncategorized,
+03/09/2024,03/10/2024,WAWA 55,Groceries,Sale,-10.35,,debit,Uncategorized,
+03/07/2024,03/08/2024,PAYPAL *NETFIRMS,Bills & Utilities,Sale,-20.99,,debit,Uncategorized,
+03/07/2024,03/08/2024,PAYPAL *NETFIRMS,Bills & Utilities,Sale,-21.99,,debit,Uncategorized,
+03/05/2024,03/06/2024,WAL-MART #5881,Groceries,Sale,-99.79,,debit,Uncategorized,
+03/05/2024,03/06/2024,LAWRENCE PARK CLEANERS,Personal,Sale,-39.9,,debit,Uncategorized,
+03/01/2024,03/03/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-27.5,,debit,Food,Groceries
+03/01/2024,03/03/2024,Netflix.com,Bills & Utilities,Sale,-16.42,,debit,Family,Subscription
+03/01/2024,03/03/2024,MINUTECLINIC,Health & Wellness,Sale,-289.68,,debit,Uncategorized,
+03/02/2024,03/03/2024,Amazon web services,Personal,Sale,-3.27,,debit,Family,Uncategorized
+02/29/2024,03/01/2024,AMZN Mktp US,Shopping,Return,25.75,,credit,Uncategorized,
+02/28/2024,03/01/2024,FRITSCHS LIBERTY,Gas,Sale,-54.16,,debit,Uncategorized,
+02/28/2024,02/29/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-50.75,,debit,Food,Groceries
+02/28/2024,02/29/2024,BOBS MOBILE SERVICE GC,Gas,Sale,-0.35,,debit,Uncategorized,
+02/28/2024,02/29/2024,BOBS MOBILE SERVICE GC,Gas,Sale,-0.33,,debit,Uncategorized,
+02/28/2024,02/29/2024,MARTINDALE'S NATURAL MAR,Groceries,Sale,-54.07,,debit,Food,Groceries
+02/25/2024,02/26/2024,BURLINGTON STORES 767,Shopping,Sale,-40.97,,debit,Uncategorized,
+02/23/2024,02/25/2024,BRUNO'S SINCLAIR,Gas,Sale,-29.66,,debit,Transportation,Fuel
+02/23/2024,02/25/2024,AMZN Mktp US*RI4WP0YR1,Shopping,Sale,-25.75,,debit,Uncategorized,
+02/20/2024,02/21/2024,Amazon.com*RI3AL8MQ1,Shopping,Sale,-10.82,,debit,Family,Uncategorized
+02/20/2024,02/21/2024,MARTINDALE'S NATURAL MAR,Groceries,Sale,-76.47,,debit,Food,Groceries
+02/20/2024,02/21/2024,WAL-MART #5881,Groceries,Sale,-83.12,,debit,Uncategorized,
+02/20/2024,02/21/2024,Amazon.com*RW6BG6412,Shopping,Sale,-2.79,,debit,Family,Uncategorized
+02/18/2024,02/19/2024,AMZN Mktp US*RI1GO8K12,Shopping,Sale,-45.86,,debit,Uncategorized,
+02/17/2024,02/18/2024,9358 GREAT CLIPS OF PILGR,Personal,Sale,-25.0,,debit,Uncategorized,
+02/14/2024,02/15/2024,CVS/PHARMACY #05462,Health & Wellness,Sale,-15.02,,debit,Uncategorized,
+02/14/2024,02/15/2024,TMOBILE*AUTO PAY,Bills & Utilities,Sale,-202.33,,debit,Uncategorized,
+02/14/2024,02/15/2024,SANJHA BAZAAR,Groceries,Sale,-26.71,,debit,Uncategorized,
+02/14/2024,02/15/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-42.5,,debit,Food,Groceries
+02/13/2024,02/15/2024,ROSS STORES #1695,Shopping,Sale,-10.78,,debit,Uncategorized,
+02/12/2024,02/13/2024,ASTOUND POWERED BY RCN,Bills & Utilities,Sale,-43.05,,debit,Uncategorized,
+02/11/2024,02/12/2024,BJS WHOLESALE #0092,Shopping,Sale,-209.63,,debit,Uncategorized,
+02/09/2024,02/11/2024,CVS/PHARMACY #01296,Health & Wellness,Sale,-46.02,,debit,Uncategorized,
+02/10/2024,02/11/2024,AMZN Mktp US*RI2325LA0,Shopping,Sale,-8.43,,debit,Uncategorized,
+02/09/2024,02/11/2024,ZARA BROW BAR,Personal,Sale,-10.0,,debit,Uncategorized,
+02/09/2024,02/09/2024,AUTOMATIC PAYMENT - THANK,,Payment,475.4,,credit,Uncategorized,
+02/08/2024,02/09/2024,BRUNO'S SINCLAIR,Gas,Sale,-50.5,,debit,Transportation,Fuel
+02/07/2024,02/08/2024,Audible*R24GX3IW1,Bills & Utilities,Sale,-15.85,,debit,Family,Subscription
+02/05/2024,02/06/2024,PRODUCE JUNCTION BROOMALL,Groceries,Sale,-47.5,,debit,Food,Groceries
+02/02/2024,02/04/2024,Amazon web services,Personal,Sale,-3.5,,debit,Family,Uncategorized
+02/01/2024,02/02/2024,NETFLIX.COM,Bills & Utilities,Sale,-16.42,,debit,Family,Subscription
+01/31/2024,02/01/2024,MARTINDALE'S NATURAL MAR,Groceries,Sale,-65.49,,debit,Food,Groceries

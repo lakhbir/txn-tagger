@@ -1,7 +1,7 @@
 rules:
   - category: "Family"
     subcategories:
-      - name: "Fitness"
+      - name: "Uncategorized"
         priority: 1  # Higher priority (processed first)
         keywords:
           - "Kohls"
