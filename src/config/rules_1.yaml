@@ -1,51 +1,170 @@
 rules:
   - category: "Family"
     subcategories:
-      - name: "Uncategorized"
-        priority: 1  # Higher priority (processed first)
+      - name: "Shopping"
+        priority: 1
         keywords:
           - "Kohls"
           - "DOLLAR TREE"
           - "AMAZON"
+          - "wal-mart"
+          - "walmart"
+          - "paypal"
+          - "target"
+          - "Ross"
+          - "Burlington"
+          - "Five Below"
+          - "DollarTree"
+          - "Dollar Tree"
+          - "AMZN"
+          - "USPS"
+          - "Carter"
+          - "Marshalls"
+          - "Shopping"
 
-      - name: "Health"
-        priority: 11
-        keywords:
-          - "DELAWARE HBCS"
-
-      - name: "Subscription"
-        priority: 12
-        keywords:
-          - "Audible"
-          - "NETFLIX"
-
-
-  - category: "Housing"
-    subcategories:
-      - name: "Utilities"  # Renamed for clarity (original example had "Fitness" here)
+      
+      - name: "Medical"
         priority: 2
         keywords:
-          - "walmart"
-          - "whole foods"
+          - "DELAWARE HBCS"
+          - "PHSC BILLING OFFICE"
+          - "HOSPITA"
+          - "CHOP"
+          - "PHARMACY"
+          - "ADVOCARE"
+          - "Quest"
+          - "HOSPITAL"
+          - "Health & Wellness"
+          
+
+      - name: "Subscription"
+        priority: 3
+        keywords:
+          - "audible"
+          - "netflix"
+          - "disney"
+          - "bjs"
+          - "ymca"
+          - "curiositystream"
+      
+      - name: "Miscellaneous"
+        priority: 99  # Higher priority (processed first)
+        keywords:
+          - "GoDaddy"
+          - "Netfirms"
+          - "Namecheap"
+          - "Entertainment"
+          - "Gifts & Donations"
+          - "Great Clips"
+          - "Zara Brow"
+          - "CSC ServiceWorks  Inc."
+          - "Personal"
+          - "Shopping"
+
+  - category: "House"
+    subcategories:
+      - name: "Utilities"  # Renamed for clarity (original example had "Fitness" here)
+        priority: 101
+        keywords:
           - "peco"
           - "aqua"
+          - "ASTOUND"
+          - "RCN"
+          - "TMOBILE"
+          - "PA DRIVER"
+          - "OB/OCO"
+          - "Bills & Utilities"
+          
+      - name: "Miscellaneous"
+        priority: 199  # Higher priority (processed first)
+        keywords:
+          - "LOWES"
+          - "HomeDepot"
+          - "Home Depot"
+          - "Home"
+          - "ACE HARDWARE"
 
   - category: "Food"
     subcategories:
       - name: "Groceries"  # Renamed for clarity
-        priority: 2
+        priority: 201
         keywords:
           - "KHAAMAR BAARI SUPER"
           - "PRODUCE JUNCTION BROOMALL"
           - "GIANT"
           - "GENTILE'S"
           - "MARTINDALE'S"
+          - "Patel"
+          - "Sanjha Bazaar"
+          - "Gentile"
+          - "Amazon Fresh"
+          - "Dana Mandi"
+          - "Bhavani food"
+          - "Acme"
+          - "whole foods"
+          - "SHOPRITE"
+          - "Groceries"
+
+      - name: "Dine Out"  # Renamed for clarity
+        priority: 202
+        keywords:
+          - "FOOD & DRINK"
+          - "Dunkin"
+          - "sutao"
+          - "honest"
+
+      - name: "Miscellaneous"
+        priority: 299  # Higher priority (processed first)
+        keywords:
+          - "Test"
+
 
   - category: "Transportation"
     subcategories:
-      - name: "Fuel"
-        priority: 2
+      - name: "Maintenance"
+        priority: 301
+        keywords:
+          - "conicelli toyota"
+          - "toyota"
+          - "Honda"
+          - "Sodi"
+          - "Automotive"
+
+      - name: "Gas"
+        priority: 302
         keywords:
           - "BRUNO'S SINCLAIR"
-          - "WAWA 991"
+          - "WAWA"
+          - "BP"
+          - "Bruno"
+          - "Racetrack"
+          - "Sunoco"
+          - "Kwik"
+          - "Quick CKEK"
+          - "PETRO"
+          - "Sinclair"
+          - "Shell"
+          - "Exxon"
+          - "Marathon"
+          - "GAS"
+          - "FRITSCHS"
+          - "Bobs Mobile"
+
+
+      - name: "Insurance"
+        priority: 304
+        keywords:
           - "PROGRESSIVE"
+      
+      - name: "Travel"  
+        priority: 305
+        keywords:
+          - "PTC EZ PASS"
+          - "Hertz"
+          - "Travel"
+       
+        
+      - name: "Miscellaneous"
+        priority: 399  # Higher priority (processed first)
+        keywords:
+          - "test"

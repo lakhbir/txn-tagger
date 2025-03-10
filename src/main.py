@@ -5,7 +5,7 @@ import file_writer
 
 csv_config = "c:/Users/punja/development/txn-tagger/src/config/csv_config.yaml"
 rules = "c:/Users/punja/development/txn-tagger/src/config/rules_1.yaml"
-csv = "c:/Users/punja/development/txn-tagger/src/resources/chase.csv"
+csv = "c:/Users/punja/development/txn-tagger/src/resources/2025_chase_card_yearToDate.csv"
 output = "c:/Users/punja/development/txn-tagger/src/resources/chase_tagged.csv"
 
 csv_loader = CSVLoader(csv_config)
@@ -18,7 +18,7 @@ df = categorizer.categorize_transactions(df_txn)
 file_writer.write_to_file(df,output)
 
 
-print(df)
+# print(df)
 
 
 

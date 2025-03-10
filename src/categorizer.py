@@ -115,16 +115,20 @@ class Categorizer:
             category_name = category_rule["category"]
             subcategories = category_rule.get("subcategories", [])
 
+            
+
             # Sort subcategories by priority (ascending)
             sorted_subcats = sorted(
                 subcategories,
-                key=lambda x: x.get("priority", 999)  # Default priority if missing
+                key=lambda x: x.get("priority", 9999)  # Default priority if missing
             )
+
 
             # Check subcategories in priority order
             for subcat in sorted_subcats:
+                print(subcat)
                 keywords = subcat.get("keywords", [])
-                existing_categories = subcat.get("existing_categories", [])
+          
 
                 # Keyword match (case-insensitive)
                 keyword_mask = df["description"].str.lower().str.contains(
@@ -132,13 +136,15 @@ class Categorizer:
                     case=False, na=False
                 )
 
+            
                 # Existing category match (case-insensitive)
                 category_mask = df["Category"].str.lower().isin(
-                    [c.lower() for c in existing_categories]
+                    [c.lower() for c in keywords]
                 )
 
                 # Combined matches
                 combined_mask = keyword_mask | category_mask
+
 
                 # Update only unmatched rows
                 update_mask = combined_mask & (df["category"] == "Uncategorized")
