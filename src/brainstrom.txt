@@ -1,0 +1,8 @@
+I am trying to create application go load transactions from muliple sources. For example, csv transactions from different bank, credit cards etc.
+For in the csv id different but data that i need exist. 
+I would like to modularize the code in such a way so that each data source can be configured separately.
+Eventually, all transactions from different data sources will transorm into one format. There will be transformation That we need to od.
+I should be able o configure the mapping of each data source. 
+I would like to modularize the code so it's easier to add more data sources in the configure with configuration.
+
+Task: Can you create a plan for this implementation. Do not write the code yet.

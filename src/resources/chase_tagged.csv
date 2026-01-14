@@ -17,7 +17,7 @@ transaction_date,Post Date,description,Category,Type,amount,Memo,type,category,s
 02/27/2025,02/28/2025,BRUNO'S SINCLAIR,Gas,Sale,-40.98,,debit,Transportation,Gas
 02/28/2025,02/28/2025,MED*THE CHILDRENS HOSPITA,Health & Wellness,Sale,-89.0,,debit,Family,Medical
 02/25/2025,02/26/2025,CVS/PHARMACY #05462,Health & Wellness,Sale,-9.29,,debit,Family,Medical
-02/24/2025,02/25/2025,CONICELLI TOYOTA,Automotive,Sale,-70.53,,debit,Transportation,Maintainance
+02/24/2025,02/25/2025,CONICELLI TOYOTA,Automotive,Sale,-70.53,,debit,Transportation,Maintenance
 02/23/2025,02/24/2025,BJS WHOLESALE #0092,Shopping,Sale,-272.14,,debit,Family,Shopping
 02/22/2025,02/23/2025,AMAZON PRIME*SB8KB3SM3,Shopping,Sale,-3.17,,debit,Family,Shopping
 02/21/2025,02/23/2025,SANJHA BAZAAR,Groceries,Sale,-84.66,,debit,Food,Groceries

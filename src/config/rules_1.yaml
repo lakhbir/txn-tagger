@@ -21,7 +21,6 @@ rules:
           - "Carter"
           - "Marshalls"
           - "Shopping"
-
       
       - name: "Medical"
         priority: 2
@@ -36,7 +35,6 @@ rules:
           - "HOSPITAL"
           - "Health & Wellness"
           
-
       - name: "Subscription"
         priority: 3
         keywords:
@@ -118,7 +116,6 @@ rules:
         keywords:
           - "Test"
 
-
   - category: "Transportation"
     subcategories:
       - name: "Maintenance"
@@ -150,7 +147,6 @@ rules:
           - "FRITSCHS"
           - "Bobs Mobile"
 
-
       - name: "Insurance"
         priority: 304
         keywords:
@@ -163,7 +159,6 @@ rules:
           - "Hertz"
           - "Travel"
        
-        
       - name: "Miscellaneous"
         priority: 399  # Higher priority (processed first)
         keywords:
